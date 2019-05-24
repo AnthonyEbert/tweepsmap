@@ -13,7 +13,7 @@ Installation
 You can install tweepsmap like so. You may need to install the `devtools` package
 
 ``` r
-devtools::install_github("AnthonyEbert/queuecomputer")
+devtools::install_github("AnthonyEbert/tweepsmap")
 ```
 
 Setup
